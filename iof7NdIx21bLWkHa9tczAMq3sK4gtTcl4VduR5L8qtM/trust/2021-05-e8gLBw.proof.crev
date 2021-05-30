@@ -14,3 +14,20 @@ trust: high
 oz8JKlog7SGu6xnEhT0lrOFDVEwGW2LjlfV0jstS1gaTG4F-GyS3fhO1dCo4PMzPFCOoC-YaeGdDqrW7w0Q6DQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-05-30T19:09:53.457089+02:00"
+from:
+  id-type: crev
+  id: iof7NdIx21bLWkHa9tczAMq3sK4gtTcl4VduR5L8qtM
+  url: "https://github.com/TheAlgorythm/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+EWxNSOOEeGHiE49-d6vdUNr34CZxotqSckuXKdBhwaMSJbzWP4a80ZmyUSReK1u-49QaXrhYrEyaqIWriwIHAg
+----- END CREV PROOF -----
+
