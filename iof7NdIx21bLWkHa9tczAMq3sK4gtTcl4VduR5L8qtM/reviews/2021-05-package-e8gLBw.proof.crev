@@ -1,0 +1,25 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-05-30T18:50:55.564247+02:00"
+from:
+  id-type: crev
+  id: iof7NdIx21bLWkHa9tczAMq3sK4gtTcl4VduR5L8qtM
+package:
+  source: "https://crates.io"
+  name: bool_ext
+  version: 0.5.1
+  revision: 05d6783679f442fe68e819ffa26e14ed78f0ca1d
+  digest: htZ4hTuO7UTdaz60WXgAOSMKHr4q9xAxBIHntlt7A_s
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  Doesn't use any of the following: unsafe, FFI, asm!, file-read, file-write, network-access, build.rs, macro_rules, proc_macro
+  
+  The maintainer could communicate quicker.
+----- SIGN CREV PROOF -----
+fd5BS7pp5yiAYH5pyuiJlf3s7ZIKzuk8sYuoIZAU987G0vGmXpPY5T-5ynWVrqivkmJ7F3tdc-nYjDxlrBX-Cg
+----- END CREV PROOF -----
+
